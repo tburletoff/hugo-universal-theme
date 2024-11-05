@@ -1,3 +1,13 @@
+## Update Steps
+* git add .
+* git commit -m "Your commit message describing the changes"
+* git push origin main
+
+  #Then in the site project
+
+*git submodule update --remote --merge
+
+
 # Universal Theme for Hugo
 
 [![Code Climate](https://codeclimate.com/github/devcows/hugo-universal-theme/badges/gpa.svg)](https://codeclimate.com/github/devcows/hugo-universal-theme)
