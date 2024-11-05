@@ -3,9 +3,9 @@
 * git commit -m "Your commit message describing the changes"
 * git push origin main
 
-  #Then in the site project
+  # Then in the site project
 
-*git submodule update --remote --merge
+* git submodule update --remote --merge
 
 
 # Universal Theme for Hugo
